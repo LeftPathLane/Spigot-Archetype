@@ -1,0 +1,1 @@
+` mvn archetype:generate -DarchetypeGroupId=com.github.leftpathlane -DarchetypeArtifactId=spigot-archetype -DarchetypeVersion=1.8.8 `

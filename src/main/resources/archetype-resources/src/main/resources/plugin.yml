@@ -1,4 +1,3 @@
 name: ${pluginName}
 main: ${package}.Plugin
 version: ${version}
-api-version: 1.15
